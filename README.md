@@ -134,6 +134,21 @@ Todas publicas, sem chave de acesso, sem cadastro.
 
 ---
 
+## Custo
+ 
+O projeto utiliza apenas o GPT-4o-mini como serviço pago.
+ 
+| Modelo | Input | Output |
+|---|---|---|
+| GPT-4o-mini | $0,15 / 1M tokens | $0,60 / 1M tokens |
+ 
+Na prática, cada conversa completa no bot custa menos de $0,001.
+Para uma demo ou uso leve, o custo total fica na casa de centavos de dólar.
+ 
+As três APIs de dados (ComexStat, AwesomeAPI, Open-Meteo) são completamente gratuitas e sem limite de uso relevante para este projeto.
+
+---
+
 ## Uso de IA no desenvolvimento
 
 | Etapa | Responsavel |
